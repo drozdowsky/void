@@ -6,7 +6,7 @@ README = open(os.path.join(here, 'README.md')).read()
 
 setup(
     name='void',
-    version='0.1.3',
+    version='0.1.4',
     packages=['void'],
     description='Void object in Python',
     long_description=README,
